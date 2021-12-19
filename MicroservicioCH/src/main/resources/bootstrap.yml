@@ -6,3 +6,4 @@ spring:
       uri: http://localhost:8090
       username: root
       password: s3cre3t
+      label: main
